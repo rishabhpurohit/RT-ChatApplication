@@ -1,1 +1,1 @@
-# Real-Time-ChatApplication
+# RT-ChatApplication
